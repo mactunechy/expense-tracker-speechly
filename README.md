@@ -1,5 +1,5 @@
 # expense-tracker-speechly
-
+![Cover](https://github.com/mactunechy/expense-tracker-speechly/blob/master/screencapture-localhost-3000-2021-03-12-00_02_37%20(1).png?raw=true)
 
 ## Introduction
 This is a income and expense tracker where users can track input their expains either by form or by speech recognition
