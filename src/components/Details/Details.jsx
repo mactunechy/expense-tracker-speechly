@@ -13,7 +13,12 @@ const Details = ({ title }) => {
     <Card className={classes[title]}>
       <CardHeader title={title} />
       <CardContent>
-        <Typography align="center" className={classes.title} variant="h3">
+        <Typography
+          align="center"
+          className={classes.title}
+          variant="h3"
+          style={{ color: title === "Income" ? "#297a56" : "#d3583a" }}
+        >
           ${total}
         </Typography>
         <Doughnut data={chartData} height={200} />
