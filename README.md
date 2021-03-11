@@ -4,7 +4,8 @@
 ## Introduction
 This is a income and expense tracker where users can track input their expains either by form or by speech recognition
 
-##demo
+## Demo
+[Follow link](https://604a9a4e6e6d2f4f3d3ad24b--boring-ramanujan-9bf739.netlify.app/)
 
 ## Technologies
 * React.js
